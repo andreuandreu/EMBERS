@@ -7,10 +7,13 @@ the main two scrips in the package are:
 - EMBERS_num.py
 
 
-to run them simply clone the repository and run 
+to run them simply clone the repository and run in terminal
 
-python scripts/EMBERS_analy.py name
-python scripts/EMBERS_num.py name2
+> python scripts/EMBERS_analy.py name
+
+or 
+
+>python scripts/EMBERS_num.py name2
 
 this should generate the directories tree and place the figures and related .npy files to plot them
 
