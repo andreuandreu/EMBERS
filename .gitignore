@@ -1,0 +1,14 @@
+# Exclude the data folder
+data/
+
+# Exclude the plots folder
+plots/
+
+# Exclude the old_scripts folder inside scripts
+scripts/old_scripts/
+
+# Exclude the .env file
+pyvenv.cfg
+
+# Exclude the .DS_Store file
+scripts/__pycache__/
