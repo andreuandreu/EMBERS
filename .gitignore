@@ -1,0 +1,7 @@
+
+
+# Exclude the plots folder
+plots/
+
+# Exclude the .env file
+pyvenv.cfg
