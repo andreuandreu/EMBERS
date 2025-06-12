@@ -1,4 +1,8 @@
-If needed to run the code, please contact andreuaprats[ at ]gmail.com
+If needed to run the code, please contact aarinyo-i-prats[ at ]gmail.com or contact me through github.
+
+### Suplementary Matgerials
+
+A two page pdf document containing one table and one plot. SM for the paper Use it or lose it: A model-based assessment of the hypothesis that European Neanderthals relied on wildfires to create their campfires arinyo-i-prats et al., 2025
 
 
 ### main scripts
